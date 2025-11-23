@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Data files
+*.vtk
+*.vtu
+*.h5
+*.xdmf
+*.png
+
+# Environment
+.env
+.venv
+env/
+venv/
